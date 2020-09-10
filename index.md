@@ -9,7 +9,7 @@
             <a-entity
             position="0 -1 0"
             scale="0.05 0.05 0.05"
-            gltf-model="Mata.gltf"
+            gltf-model="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/pabelit/pabelit.github.io/master/Mata.gltf"
             ></a-entity>
         </a-marker>
         <a-entity camera></a-entity>
